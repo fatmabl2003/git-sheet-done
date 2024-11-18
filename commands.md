@@ -1,6 +1,7 @@
 # My cheatsheet git commands
 
-- configure default editor for commit messages
+- list global configuration 'git config --global --list'
+configure default editor for commit messages
   `git config --global core.editor "code --wait"`
 
 - get the status on the recent dir
